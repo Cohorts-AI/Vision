@@ -1,2 +1,2 @@
 # Vision
-A  platform for enabling cameras with smart lens
+A platform for enabling cameras with software based smart lenses
