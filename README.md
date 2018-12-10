@@ -1,3 +1,4 @@
+<img src="/images/vision-logo.png"/>
 # Vision
 A platform for enabling cameras with software based smart lenses
 
