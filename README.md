@@ -1,4 +1,4 @@
-<img src="/images/vision-logo.png"/>
+<img src="/images/cover.png"/>
 A platform for enabling cameras with software based smart lenses
 
 Add your camera, select your lenses, choose your triggers
@@ -20,10 +20,7 @@ Motion over Time with Time Slider Heatmap
 	•  Automated Loyality via Facial Recognition
 
 ## Current State
-Currently building our platform with off-the-shelf modiified Wyze Cams to enable RTSP via
-
-[Dafang Hacks](https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks)
-or [OpenIP Cam](https://github.com/openipcamera/openipc-firmware).
+Using Wyze Cam ($25) with RTSP along with Edge Computing for Localized Computer Vision outside the network for machine learning.
 
 ## Stack
 ### Object Dectection
